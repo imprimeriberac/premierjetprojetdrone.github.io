@@ -1,0 +1,30 @@
+Inspection intelligente:
+1-Enregistrement de mission en direct
+Enregistrez des actions de missions telles que le mouvement de l’appareil,
+l’orientation de la nacelle, la prise de photo et le niveau de zoom pour créer 
+des fichiers de missions échantillons pour des inspections automatisées futures.
+2-AI Spot-Check7
+Automatisez les inspections de routine et capturez des résultats cohérents de 
+manière systématique. L’IA embarquée reconnaît le sujet d’intérêt et l’identifie 
+lors de missions automatisées ultérieures pour assurer un cadrage cohérent.
+3-Waypoint 2.0
+Créez jusqu’à 65 535 points de passage et définissez de nombreuses actions pour 
+une ou plusieurs nacelles-caméras, incluant des nacelles-caméras tierces, 
+à chaque point de passage. De même, la planification de trajectoire a été optimisée 
+pour plus de flexibilité et d’efficacité lors de vos missions.
+
+
+Localisation et Suivi intelligent:
+1-PinPoint
+Un clic rapide sur la vue caméra ou plan cible un objet. Les algorithmes de 
+fusion de données transmettent immédiatement les coordonnées de l’objet et les 
+affichent sur toutes les vues de la caméra en icône AR (réalité augmentée). 
+La position du sujet est automatiquement partagée avec une autre radiocommande 
+ou avec les plateformes en ligne telles que DJI FlightHub.
+2-Suivi Intelligent
+Identifiez et suivez des sujets en mouvement tels que des personnes, 
+véhicules et bateaux grâce à la fonction Smart Track, le zoom auto est 
+activé pour un suivi et une visualisation stable. La position dynamique du sujet 
+est mesurée en continu et partagée avec une radiocommande ou DJI FlightHub.
+3-
+

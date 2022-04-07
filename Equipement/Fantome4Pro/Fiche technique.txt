@@ -1,0 +1,39 @@
+Équipé d'un capteur CMOS de 1 pouce, capable de prendre des vidéos 4K à 60 ips et des photos 20MP, le Phantom 4 Pro V2.0 apporte aux réalisateurs une liberté de création absolue. 
+Le système de transmission OcuSync 2.0 HD assure une connectivité stable et fiable, la détection d’obstacles dans cinq directions permet une sécurité de vol accrue et une radiocommande dédiée avec un écran intégré fournit 
+un contrôle et une précision améliorée.[1] Une large sélection de fonctions intelligentes qui facilite le vol. Le Phantom 4 Pro V2.0 est une solution d’imagerie aérienne complète, élaboré pour les créateurs professionnels.
+
+Performances aériennes exceptionnelles
+Caméra à nacelle incroyable
+La caméra embarquée est dotée d’un capteur CMOS de 1 pouce 20 MP et d’un obturateur mécanique qui élimine l’effet de distorsion de l'obturateur déroulant. 
+Un capteur avancé et un traitement d’image impressionnant permettent de capturer tous les détails et fournissent les données nécessaires pour une post-production de pointe.
+
+La caméra du Phantom 4 Pro V2.0 présente un objectif grand-angle f/2.8 optimisé pour des images toujours détaillées et nettes, aux couleurs vives et précises.
+Vidéo 4K professionnelle
+Un système de traitement vidéo amélioré permet un enregistrement des vidéos en Cinema 4K avec 100 Mb/s, et de créer des plans haute résolution au ralenti. 
+Les enregistrements en mode D-log avec le codec H.265 sont destinés aux tournages professionnels avec une plage dynamique élevée, pour une qualité d’images optimisée.
+
+100Mb/s
+Débit binaire max.
+4K/60ips
+Taux de rafraîchissement
+D-Log
+Profil de couleur
+Obturateur mécanique précis
+
+En plus des magnifiques paysages qui s’ouvrent à vous avec l’imagerie aérienne, profitez de nouvelles perspectives pour tout vos tournages, des plans immobiles ou courses automobiles. 
+L'obturateur mécanique élimine la distorsion d'obturateur déroulant qui peut survenir lors de la prise de sujets en mouvement rapide ou en vol à grande vitesse. 
+L’obturateur électronique propose un mode Rafale, capable de prendre des clichés à 20 MP et des vidéos à 14 ips. Vous capturerez ainsi le moment parfait.
+
+Performances de vol considérables
+Plusieurs modes de vol simplifient le pilotage et la création avec le Phantom 4 Pro V2.0 et en font une expérience simple et confortable. 
+Le changement de modes de vol octroie plus de contrôle aux pilotes. Selon leurs besoins, ils peuvent profiter de plus de sensibilité, de simplicité ou de vitesse. 
+Les contrôles intuitifs et la vitesse maximum de 72 km/h simplifient les plans complexes.
+Sécurité du vol complète
+FlightAutonomy est un système d’intelligence aérienne moderne et une plateforme de vol automatisé qui procure aux réalisateurs la confiance nécessaire pour des prises de vue complexes. 
+La vue en temps réel et une carte 3D de l’environnement fournissent des données essentielles. Les modules d’IMU et de compas en redondance surveillent ces données et éliminent les erreurs, augmentant drastiquement la fiabilité du vol. 
+La détection d’obstacles dans cinq directions améliore la sécurité et l’expérience générale du vol.[2]
+
+Transmission d’images HD avec OcuSync 2.0
+La radiocommande du Phantom 4 Pro V2.0 repose sur la transmission vidéo OcuSync 2.0, un mécanisme de multiplexage temporel qui transmet les signaux de contrôle et de vidéo simultanément, pour que vous puissiez diffuser
+ en 1080p jusqu’à une distance de huit kilomètres.[3] Compatible avec les bandes de fréquence 2,4 GHz et 5,8 GHz, le système OcuSync 2.0 scanne les bandes de fréquence avec le moins d’interférence et alterne en conséquence 
+pour maintenir une transmission claire. Grâce au système OcuSync 2.0, le Phantom 4 Pro V2.0 se connecte sans fil aux DJI Goggles pour une expérience toujours plus immersive.
